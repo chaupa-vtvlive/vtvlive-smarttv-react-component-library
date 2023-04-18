@@ -1,0 +1,20 @@
+{
+  "name": "vtvlive-smarttv-react-component-library",
+  "version": "1.0.0",
+  "description": "VTVLive web smart tv components library",
+  "author": "chaupa@vtvlive.vn",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "@types/react": "^17.0.36",
+    "react": "^17.0.2",
+    "typescript": "^4.5.2"
+  },
+  "main": "dist/cjs/index.js",
+  "module": "dist/esm/index.js",
+  "files": [
+    "dist"
+  ],
+  "types": "dist/index.d.ts"
+}
